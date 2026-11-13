@@ -4,7 +4,7 @@ A curated list of the Fieldkit family — open-source intelligence tools for Win
 one for every kind of clue: a nickname, a photo, a domain, a wallet, a company.
 Public data only, no accounts, portable builds.
 
-> Homepage: [awesomeosint.tools](https://awesomeosint.tools/) — every tool has its own page and download.
+> Every tool has its own page and a download link.
 
 ## The list
 
